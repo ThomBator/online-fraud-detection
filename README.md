@@ -1,2 +1,5 @@
 # online-fraud-detection
-Machine learning project to detect fraudulent credit card transactions
+
+This is a Machine Learning project to detect fraudulent credit card transactions. 
+
+Data is taken from: https://www.kaggle.com/code/mihahanya/online-credit-card-transactions-ai
